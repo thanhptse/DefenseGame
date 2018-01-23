@@ -1,7 +1,0 @@
-E:\Learning\PetProject\DefendGame\DefendGame\bin\Debug\DefendGame.exe.config
-E:\Learning\PetProject\DefendGame\DefendGame\bin\Debug\DefendGame.exe
-E:\Learning\PetProject\DefendGame\DefendGame\bin\Debug\DefendGame.pdb
-E:\Learning\PetProject\DefendGame\DefendGame\obj\Debug\DefendGame.csprojResolveAssemblyReference.cache
-E:\Learning\PetProject\DefendGame\DefendGame\obj\Debug\DefendGame.csproj.CoreCompileInputs.cache
-E:\Learning\PetProject\DefendGame\DefendGame\obj\Debug\DefendGame.exe
-E:\Learning\PetProject\DefendGame\DefendGame\obj\Debug\DefendGame.pdb
